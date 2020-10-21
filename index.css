@@ -1,0 +1,22 @@
+body
+        {
+            background-color:turquoise;
+        }
+        .clock-display1-hours,.clock-display1-minutes,.clock-display1-dots{
+            color:greenyellow;
+            display: inline;
+        }
+        .jumbotron
+        {
+            background-color: Black;
+            width:15vw;
+            margin: 0 auto;
+            margin-top:15vh;
+            text-align: center;        }
+        
+        .heading
+        {
+            text-align: center;
+            color:Green;
+            margin-top: 5vh;
+        }
